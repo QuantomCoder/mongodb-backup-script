@@ -253,7 +253,7 @@ Feel free to improve:
 
 # 📜 License
 
-MIT License — free for commercial & personal use.
+GNU License — free for commercial & personal use.
 
 ---
 
